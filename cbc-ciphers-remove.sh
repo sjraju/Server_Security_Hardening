@@ -1,5 +1,7 @@
 #!/usr/bin/bash
 #RemoveCBC.sh
+#-------------------------comment-1-------------------------
+#------------------------comment-2-------------------------
 
 INIT_FILE=/opt/panaces/bin/panaces_env
 
